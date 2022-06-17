@@ -1,4 +1,5 @@
 
+//import nodejs core modules
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
@@ -9,7 +10,7 @@ const homepageRoute = '/index.html'
 const aboutpageRoute = '/about.html'
 const contactpageRoute = '/contact.html'
 
-
+//create a http server
 const server = http.createServer((request,response)=>{
     switch(request.url){
         case landingRoute : {
@@ -59,9 +60,9 @@ const server = http.createServer((request,response)=>{
 
     
 })
-
+//set a port number
 const port = 5000;
-
+//set the server to listen on the port
 server.listen(port, ()=>{
     console.log(`Server is running on ${port}`)
 })
