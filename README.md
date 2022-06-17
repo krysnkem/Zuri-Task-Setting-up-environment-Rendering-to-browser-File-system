@@ -1,6 +1,6 @@
 # Zuri-Task-Setting-up-environment-Rendering-to-browser-File-system
 
-A nodeJs server project created using http, path and file system module
+A nodeJs server project created using http, path and file system modules
 
 The projects has the following HTML pages:
 
