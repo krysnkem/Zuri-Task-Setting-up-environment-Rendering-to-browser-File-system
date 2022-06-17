@@ -1,7 +1,7 @@
 {
-  "name": "demo-project1",
+  "name": "christian-portfolio",
   "version": "1.0.0",
-  "description": "This is a demo project",
+  "description": "This is a portfolio project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
