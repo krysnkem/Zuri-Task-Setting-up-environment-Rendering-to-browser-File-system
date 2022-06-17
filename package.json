@@ -1,0 +1,19 @@
+{
+  "name": "demo-project1",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "author": "Christian Onyisi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
