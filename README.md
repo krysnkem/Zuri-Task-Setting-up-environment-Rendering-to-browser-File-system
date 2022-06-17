@@ -1,6 +1,6 @@
 # Zuri-Task-Setting-up-environment-Rendering-to-browser-File-system
 A portfolio having the following HTML pages:
 
-Home: The homepage should contain your data (bio)
-About: The about me page should contain brief information about you
-Contact: The contact page should contain links to your social media
+Home: The homepage contains my data (bio)
+About: The about me page contains a brief info about me
+Contact: The contact page contains links to my social media pages
